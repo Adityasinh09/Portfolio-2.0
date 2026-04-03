@@ -1,0 +1,30 @@
+{
+  "title": "Retail Sales & Customer Behavior Analytics",
+  "description": "Decoding consumer trends to drive revenue growth through EDA and Python. I analyzed a retail transaction dataset to identify high-value customer segments and product performance.",
+  "date": "2024-01-01T00:00:00.000Z",
+  "url": "https://public.tableau.com/app/profile/adityasinh.chauhan/viz/RetailSalesAnalysisDashboard_17737033125250/Dashboard1",
+  "repository": "Adityasinh09/Retail-Sales-and-Customer-Behavior-Analysis",
+  "published": true,
+  "image": "/retail-sales-dashboard.png",
+  "tags": [
+    "Python",
+    "Pandas",
+    "Seaborn",
+    "EDA",
+    "Tableau"
+  ],
+  "body": {
+    "raw": "\n## Overview\n\nAnalyzed a retail transaction dataset to decode purchasing patterns, identify high-value customer segments, and surface product performance insights using Python and Pandas.\n\n## Key Findings\n\n- Uncovered that **30–50 year-olds** drive the highest average spend per transaction.\n- Identified top-performing product categories contributing to 60%+ of total revenue.\n- Provided a clear segmentation target for marketing optimization to drive sustainable revenue growth.\n\n## Tools & Stack\n\nPython · Pandas · Seaborn · Matplotlib · Tableau · EDA\n",
+    "code": "var Component=(()=>{var u=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var v=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var a in e)i(t,a,{get:e[a],enumerable:!0})},s=(t,e,a,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of g(e))!y.call(t,r)&&r!==a&&i(t,r,{get:()=>e[r],enumerable:!(o=p(e,r))||o.enumerable});return t};var b=(t,e,a)=>(a=t!=null?u(m(t)):{},s(e||!t||!t.__esModule?i(a,\"default\",{value:t,enumerable:!0}):a,t)),x=t=>s(i({},\"__esModule\",{value:!0}),t);var l=v((_,d)=>{d.exports=_jsx_runtime});var D={};f(D,{default:()=>h,frontmatter:()=>A});var n=b(l()),A={title:\"Retail Sales & Customer Behavior Analytics\",description:\"Decoding consumer trends to drive revenue growth through EDA and Python. I analyzed a retail transaction dataset to identify high-value customer segments and product performance.\",date:\"2024-01-01\",repository:\"Adityasinh09/Retail-Sales-and-Customer-Behavior-Analysis\",url:\"https://public.tableau.com/app/profile/adityasinh.chauhan/viz/RetailSalesAnalysisDashboard_17737033125250/Dashboard1\",image:\"/retail-sales-dashboard.png\",tags:[\"Python\",\"Pandas\",\"Seaborn\",\"EDA\",\"Tableau\"],published:!0};function c(t){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,n.jsx)(e.p,{children:\"Analyzed a retail transaction dataset to decode purchasing patterns, identify high-value customer segments, and surface product performance insights using Python and Pandas.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Key Findings\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsxs)(e.li,{children:[\"Uncovered that \",(0,n.jsx)(e.strong,{children:\"30\\u201350 year-olds\"}),\" drive the highest average spend per transaction.\"]}),`\n`,(0,n.jsx)(e.li,{children:\"Identified top-performing product categories contributing to 60%+ of total revenue.\"}),`\n`,(0,n.jsx)(e.li,{children:\"Provided a clear segmentation target for marketing optimization to drive sustainable revenue growth.\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,n.jsx)(e.p,{children:\"Python \\xB7 Pandas \\xB7 Seaborn \\xB7 Matplotlib \\xB7 Tableau \\xB7 EDA\"})]})}function h(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(c,{...t})}):c(t)}return x(D);})();\n;return Component;"
+  },
+  "_id": "projects/retail-sales.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/retail-sales.mdx",
+    "sourceFileName": "retail-sales.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/retail-sales"
+  },
+  "type": "Project",
+  "slug": "retail-sales"
+}

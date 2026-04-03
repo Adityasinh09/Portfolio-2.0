@@ -1,0 +1,27 @@
+{
+  "title": "Oasis Hospital Solution — UI/UX Design",
+  "description": "Designed a modular service grid, user-centric onboarding, and strategic CTA workflows for a healthcare platform.",
+  "date": "2022-06-01T00:00:00.000Z",
+  "published": true,
+  "image": "/oasis-hospital.png",
+  "tags": [
+    "Figma",
+    "Visual Hierarchy",
+    "Component Design",
+    "Responsive Layouts"
+  ],
+  "body": {
+    "raw": "\n## Overview\n\nDesigned an end-to-end UI/UX system for a multi-service hospital platform, covering patient onboarding, service discovery, and conversion-optimized call-to-action flows.\n\n## Design Highlights\n\n- Created a **custom card-based modular service grid** allowing easy future expansion for categories like Medical Tourism and Specialist Referrals.\n- Integrated **social login onboarding** to lower friction barriers for new policyholders and partners.\n- Strategically placed **\"Know More\" and \"Login\" CTAs** at key decision points to guide users toward conversion.\n- Leveraged custom illustrations to visually differentiate user types (patients, partners, staff) across the platform.\n\n## Tools & Stack\n\nFigma · Component Design · Visual Hierarchy · Responsive Layouts · Illustration\n",
+    "code": "var Component=(()=>{var u=Object.create;var o=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var v=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),y=(n,e)=>{for(var r in e)o(n,r,{get:e[r],enumerable:!0})},a=(n,e,r,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let t of p(e))!f.call(n,t)&&t!==r&&o(n,t,{get:()=>e[t],enumerable:!(s=h(e,t))||s.enumerable});return n};var w=(n,e,r)=>(r=n!=null?u(m(n)):{},a(e||!n||!n.__esModule?o(r,\"default\",{value:n,enumerable:!0}):r,n)),x=n=>a(o({},\"__esModule\",{value:!0}),n);var c=v((b,l)=>{l.exports=_jsx_runtime});var C={};y(C,{default:()=>g,frontmatter:()=>D});var i=w(c()),D={title:\"Oasis Hospital Solution \\u2014 UI/UX Design\",description:\"Designed a modular service grid, user-centric onboarding, and strategic CTA workflows for a healthcare platform.\",date:\"2022-06-01\",image:\"/oasis-hospital.png\",tags:[\"Figma\",\"Visual Hierarchy\",\"Component Design\",\"Responsive Layouts\"],published:!0};function d(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,i.jsx)(e.p,{children:\"Designed an end-to-end UI/UX system for a multi-service hospital platform, covering patient onboarding, service discovery, and conversion-optimized call-to-action flows.\"}),`\n`,(0,i.jsx)(e.h2,{children:\"Design Highlights\"}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[\"Created a \",(0,i.jsx)(e.strong,{children:\"custom card-based modular service grid\"}),\" allowing easy future expansion for categories like Medical Tourism and Specialist Referrals.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[\"Integrated \",(0,i.jsx)(e.strong,{children:\"social login onboarding\"}),\" to lower friction barriers for new policyholders and partners.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[\"Strategically placed \",(0,i.jsx)(e.strong,{children:'\"Know More\" and \"Login\" CTAs'}),\" at key decision points to guide users toward conversion.\"]}),`\n`,(0,i.jsx)(e.li,{children:\"Leveraged custom illustrations to visually differentiate user types (patients, partners, staff) across the platform.\"}),`\n`]}),`\n`,(0,i.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,i.jsx)(e.p,{children:\"Figma \\xB7 Component Design \\xB7 Visual Hierarchy \\xB7 Responsive Layouts \\xB7 Illustration\"})]})}function g(n={}){let{wrapper:e}=n.components||{};return e?(0,i.jsx)(e,{...n,children:(0,i.jsx)(d,{...n})}):d(n)}return x(C);})();\n;return Component;"
+  },
+  "_id": "projects/oasis-hospital.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/oasis-hospital.mdx",
+    "sourceFileName": "oasis-hospital.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/oasis-hospital"
+  },
+  "type": "Project",
+  "slug": "oasis-hospital"
+}

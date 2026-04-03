@@ -1,0 +1,29 @@
+{
+  "title": "6G & Smart City IoT Framework — Academic Publication",
+  "description": "Peer-Reviewed Research published under Springer Nature addressing the 6G-Enabled Smart Cities paradigm, focusing on bandwidth and AI integration in home automation frameworks.",
+  "date": "2023-11-01T00:00:00.000Z",
+  "url": "https://link.springer.com/chapter/10.1007/978-3-031-85923-6_11",
+  "published": true,
+  "image": "/6g-research-paper.png",
+  "tags": [
+    "IoT",
+    "6G Networking",
+    "Internet Computing",
+    "Embedded Systems",
+    "AI"
+  ],
+  "body": {
+    "raw": "\n## Publication\n\n**Springer Nature Link** · Conference Proceedings, pp. 137–150\n\n## Abstract\n\nThis peer-reviewed conference paper addresses the \"6G-Enabled Smart Cities\" paradigm, exploring how ultra-high-bandwidth 6G connectivity combined with AI-driven home automation can unlock the next generation of intelligent urban infrastructure.\n\n## Key Contributions\n\n- Published as a **peer-reviewed conference paper (pp. 137–150)**, demonstrating rigorous academic validation and expert review.\n- Conducted in-depth analysis on the **evolution of IoT connectivity** from 4G/5G to 6G, contributing to cyber-physical systems research.\n- Proposed an architectural framework integrating **embedded systems and AI inference** at the edge for real-time smart home control.\n\n## Tools & Domains\n\nInternet Computing · IoT · 6G Networking · Embedded Systems · AI · Smart Cities\n",
+    "code": "var Component=(()=>{var m=Object.create;var o=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var f=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),w=(n,e)=>{for(var r in e)o(n,r,{get:e[r],enumerable:!0})},s=(n,e,r,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!b.call(n,i)&&i!==r&&o(n,i,{get:()=>e[i],enumerable:!(a=p(e,i))||a.enumerable});return n};var x=(n,e,r)=>(r=n!=null?m(g(n)):{},s(e||!n||!n.__esModule?o(r,\"default\",{value:n,enumerable:!0}):r,n)),y=n=>s(o({},\"__esModule\",{value:!0}),n);var c=f((G,d)=>{d.exports=_jsx_runtime});var I={};w(I,{default:()=>l,frontmatter:()=>C});var t=x(c()),C={title:\"6G & Smart City IoT Framework \\u2014 Academic Publication\",description:\"Peer-Reviewed Research published under Springer Nature addressing the 6G-Enabled Smart Cities paradigm, focusing on bandwidth and AI integration in home automation frameworks.\",date:\"2023-11-01\",url:\"https://link.springer.com/chapter/10.1007/978-3-031-85923-6_11\",image:\"/6g-research-paper.png\",tags:[\"IoT\",\"6G Networking\",\"Internet Computing\",\"Embedded Systems\",\"AI\"],published:!0};function h(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h2,{children:\"Publication\"}),`\n`,(0,t.jsxs)(e.p,{children:[(0,t.jsx)(e.strong,{children:\"Springer Nature Link\"}),\" \\xB7 Conference Proceedings, pp. 137\\u2013150\"]}),`\n`,(0,t.jsx)(e.h2,{children:\"Abstract\"}),`\n`,(0,t.jsx)(e.p,{children:'This peer-reviewed conference paper addresses the \"6G-Enabled Smart Cities\" paradigm, exploring how ultra-high-bandwidth 6G connectivity combined with AI-driven home automation can unlock the next generation of intelligent urban infrastructure.'}),`\n`,(0,t.jsx)(e.h2,{children:\"Key Contributions\"}),`\n`,(0,t.jsxs)(e.ul,{children:[`\n`,(0,t.jsxs)(e.li,{children:[\"Published as a \",(0,t.jsx)(e.strong,{children:\"peer-reviewed conference paper (pp. 137\\u2013150)\"}),\", demonstrating rigorous academic validation and expert review.\"]}),`\n`,(0,t.jsxs)(e.li,{children:[\"Conducted in-depth analysis on the \",(0,t.jsx)(e.strong,{children:\"evolution of IoT connectivity\"}),\" from 4G/5G to 6G, contributing to cyber-physical systems research.\"]}),`\n`,(0,t.jsxs)(e.li,{children:[\"Proposed an architectural framework integrating \",(0,t.jsx)(e.strong,{children:\"embedded systems and AI inference\"}),\" at the edge for real-time smart home control.\"]}),`\n`]}),`\n`,(0,t.jsx)(e.h2,{children:\"Tools & Domains\"}),`\n`,(0,t.jsx)(e.p,{children:\"Internet Computing \\xB7 IoT \\xB7 6G Networking \\xB7 Embedded Systems \\xB7 AI \\xB7 Smart Cities\"})]})}function l(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(h,{...n})}):h(n)}return y(I);})();\n;return Component;"
+  },
+  "_id": "projects/6g-smart-city.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/6g-smart-city.mdx",
+    "sourceFileName": "6g-smart-city.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/6g-smart-city"
+  },
+  "type": "Project",
+  "slug": "6g-smart-city"
+}

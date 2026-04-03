@@ -1,0 +1,32 @@
+{
+  "title": "Vegetable Market App — UI/UX Design",
+  "description": "A comprehensive UI/UX design featuring component-driven product cards, an immersive onboarding experience, and engaging micro-interactions.",
+  "date": "2022-08-01T00:00:00.000Z",
+  "published": true,
+  "image": "/vegetable-market-1.png",
+  "images": [
+    "/vegetable-market-1.png",
+    "/vegetable-market-2.png",
+    "/vegetable-market-3.png"
+  ],
+  "tags": [
+    "Figma",
+    "UI Design",
+    "Prototyping",
+    "Digital Branding"
+  ],
+  "body": {
+    "raw": "\n## Overview\n\nDesigned a full mobile app UI/UX experience for a fresh vegetable marketplace, optimizing for discoverability, conversion, and a delightful shopping experience.\n\n## Design Highlights\n\n- Created **reusable product cards** with strategic calls-to-action (Add to Cart, Quick View) to increase conversion rates.\n- Designed a **5-tab bottom navigation bar** for instant access to Home, Search, Cart, Orders, and Profile.\n- Planned **intuitive checkout banners and promotional sliders** to maximize average order value.\n- Applied a fresh, vibrant color palette aligned with the brand's natural, farm-to-table identity.\n\n## Tools & Stack\n\nFigma · UI Design · Digital Branding · Prototyping · Motion Design\n",
+    "code": "var Component=(()=>{var p=Object.create;var a=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var v=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),f=(n,e)=>{for(var i in e)a(n,i,{get:e[i],enumerable:!0})},l=(n,e,i,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of m(e))!b.call(n,r)&&r!==i&&a(n,r,{get:()=>e[r],enumerable:!(o=h(e,r))||o.enumerable});return n};var x=(n,e,i)=>(i=n!=null?p(u(n)):{},l(e||!n||!n.__esModule?a(i,\"default\",{value:n,enumerable:!0}):i,n)),D=n=>l(a({},\"__esModule\",{value:!0}),n);var c=v((j,s)=>{s.exports=_jsx_runtime});var U={};f(U,{default:()=>d,frontmatter:()=>k});var t=x(c()),k={title:\"Vegetable Market App \\u2014 UI/UX Design\",description:\"A comprehensive UI/UX design featuring component-driven product cards, an immersive onboarding experience, and engaging micro-interactions.\",date:\"2022-08-01\",image:\"/vegetable-market-1.png\",images:[\"/vegetable-market-1.png\",\"/vegetable-market-2.png\",\"/vegetable-market-3.png\"],tags:[\"Figma\",\"UI Design\",\"Prototyping\",\"Digital Branding\"],published:!0};function g(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,t.jsx)(e.p,{children:\"Designed a full mobile app UI/UX experience for a fresh vegetable marketplace, optimizing for discoverability, conversion, and a delightful shopping experience.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Design Highlights\"}),`\n`,(0,t.jsxs)(e.ul,{children:[`\n`,(0,t.jsxs)(e.li,{children:[\"Created \",(0,t.jsx)(e.strong,{children:\"reusable product cards\"}),\" with strategic calls-to-action (Add to Cart, Quick View) to increase conversion rates.\"]}),`\n`,(0,t.jsxs)(e.li,{children:[\"Designed a \",(0,t.jsx)(e.strong,{children:\"5-tab bottom navigation bar\"}),\" for instant access to Home, Search, Cart, Orders, and Profile.\"]}),`\n`,(0,t.jsxs)(e.li,{children:[\"Planned \",(0,t.jsx)(e.strong,{children:\"intuitive checkout banners and promotional sliders\"}),\" to maximize average order value.\"]}),`\n`,(0,t.jsx)(e.li,{children:\"Applied a fresh, vibrant color palette aligned with the brand's natural, farm-to-table identity.\"}),`\n`]}),`\n`,(0,t.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,t.jsx)(e.p,{children:\"Figma \\xB7 UI Design \\xB7 Digital Branding \\xB7 Prototyping \\xB7 Motion Design\"})]})}function d(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(g,{...n})}):g(n)}return D(U);})();\n;return Component;"
+  },
+  "_id": "projects/vegetable-market.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/vegetable-market.mdx",
+    "sourceFileName": "vegetable-market.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/vegetable-market"
+  },
+  "type": "Project",
+  "slug": "vegetable-market"
+}

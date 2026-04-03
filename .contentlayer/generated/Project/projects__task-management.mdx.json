@@ -1,0 +1,33 @@
+{
+  "title": "Dynamic Task Management Web App",
+  "description": "A sleek, persistent To-Do application built with vanilla JavaScript and Local Storage, focusing on a zero-loss user experience.",
+  "date": "2023-10-01T00:00:00.000Z",
+  "published": true,
+  "image": "/task-app-1.png",
+  "images": [
+    "/task-app-1.png",
+    "/task-app-2.png",
+    "/task-app-3.png",
+    "/task-app-4.png"
+  ],
+  "tags": [
+    "JavaScript",
+    "Local Storage",
+    "DOM Manipulation",
+    "CSS"
+  ],
+  "body": {
+    "raw": "\n## Overview\n\nBuilt a fully functional To-Do application using vanilla JavaScript featuring real-time DOM manipulation and data persistence via the `localStorage` API — ensuring tasks are never lost across sessions.\n\n## Technical Highlights\n\n- Implemented the **localStorage API** for complete data persistence and state management without a backend.\n- Engineered input validation and vanilla JavaScript **DOM manipulation** for seamless real-time task creation, editing, and deletion.\n- Applied a modern glassmorphism UI with smooth transitions for a premium feel.\n\n## Tools & Stack\n\nJavaScript · HTML · CSS · Local Storage · DOM Manipulation\n",
+    "code": "var Component=(()=>{var g=Object.create;var o=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,S=Object.prototype.hasOwnProperty;var f=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),v=(e,n)=>{for(var t in n)o(e,t,{get:n[t],enumerable:!0})},l=(e,n,t,r)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let i of m(n))!S.call(e,i)&&i!==t&&o(e,i,{get:()=>n[i],enumerable:!(r=h(n,i))||r.enumerable});return e};var k=(e,n,t)=>(t=e!=null?g(u(e)):{},l(n||!e||!e.__esModule?o(t,\"default\",{value:e,enumerable:!0}):t,e)),M=e=>l(o({},\"__esModule\",{value:!0}),e);var c=f((T,s)=>{s.exports=_jsx_runtime});var D={};v(D,{default:()=>d,frontmatter:()=>x});var a=k(c()),x={title:\"Dynamic Task Management Web App\",description:\"A sleek, persistent To-Do application built with vanilla JavaScript and Local Storage, focusing on a zero-loss user experience.\",date:\"2023-10-01\",image:\"/task-app-1.png\",images:[\"/task-app-1.png\",\"/task-app-2.png\",\"/task-app-3.png\",\"/task-app-4.png\"],tags:[\"JavaScript\",\"Local Storage\",\"DOM Manipulation\",\"CSS\"],published:!0};function p(e){let n={code:\"code\",h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...e.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(n.h2,{children:\"Overview\"}),`\n`,(0,a.jsxs)(n.p,{children:[\"Built a fully functional To-Do application using vanilla JavaScript featuring real-time DOM manipulation and data persistence via the \",(0,a.jsx)(n.code,{children:\"localStorage\"}),\" API \\u2014 ensuring tasks are never lost across sessions.\"]}),`\n`,(0,a.jsx)(n.h2,{children:\"Technical Highlights\"}),`\n`,(0,a.jsxs)(n.ul,{children:[`\n`,(0,a.jsxs)(n.li,{children:[\"Implemented the \",(0,a.jsx)(n.strong,{children:\"localStorage API\"}),\" for complete data persistence and state management without a backend.\"]}),`\n`,(0,a.jsxs)(n.li,{children:[\"Engineered input validation and vanilla JavaScript \",(0,a.jsx)(n.strong,{children:\"DOM manipulation\"}),\" for seamless real-time task creation, editing, and deletion.\"]}),`\n`,(0,a.jsx)(n.li,{children:\"Applied a modern glassmorphism UI with smooth transitions for a premium feel.\"}),`\n`]}),`\n`,(0,a.jsx)(n.h2,{children:\"Tools & Stack\"}),`\n`,(0,a.jsx)(n.p,{children:\"JavaScript \\xB7 HTML \\xB7 CSS \\xB7 Local Storage \\xB7 DOM Manipulation\"})]})}function d(e={}){let{wrapper:n}=e.components||{};return n?(0,a.jsx)(n,{...e,children:(0,a.jsx)(p,{...e})}):p(e)}return M(D);})();\n;return Component;"
+  },
+  "_id": "projects/task-management.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/task-management.mdx",
+    "sourceFileName": "task-management.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/task-management"
+  },
+  "type": "Project",
+  "slug": "task-management"
+}

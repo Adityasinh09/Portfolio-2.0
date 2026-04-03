@@ -1,0 +1,29 @@
+{
+  "title": "Netflix Global Content Strategy & Growth Analytics",
+  "description": "Mapping the evolution of a streaming giant through data engineering and visual storytelling.",
+  "date": "2024-02-01T00:00:00.000Z",
+  "url": "https://public.tableau.com/app/profile/adityasinh.chauhan/viz/NetflixContentStrategyAnalysis_17737949998940/Dashboard1",
+  "repository": "Adityasinh09/Netflix-Content-Strategy-Analysis",
+  "published": true,
+  "image": "/netflix-strategy-dashboard.png",
+  "tags": [
+    "Python",
+    "Tableau",
+    "Data Engineering",
+    "Pandas"
+  ],
+  "body": {
+    "raw": "\n## Overview\n\nDeveloped a Python-based data cleaning pipeline and built a comprehensive Tableau dashboard to visualize Netflix's 2014–2019 \"Content Explosion\" era, mapping the platform's strategic shift from US-centric content to a global production powerhouse.\n\n## Key Findings\n\n- Identified that the library remains **70% movie-heavy** despite global audience shifts toward episodic content.\n- Uncovered International Dramas as the **primary engine for non-US growth**, indicating a deliberate strategy of using cinema as a market-entry vehicle.\n- Mapped regional production hubs and their contribution to Netflix's subscriber growth milestones.\n\n## Tools & Stack\n\nPython · Pandas · Tableau · Data Engineering · EDA\n",
+    "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var b=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),f=(e,n)=>{for(var i in n)r(e,i,{get:n[i],enumerable:!0})},s=(e,n,i,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let a of u(n))!y.call(e,a)&&a!==i&&r(e,a,{get:()=>n[a],enumerable:!(o=p(n,a))||o.enumerable});return e};var x=(e,n,i)=>(i=e!=null?g(m(e)):{},s(n||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),v=e=>s(r({},\"__esModule\",{value:!0}),e);var h=b((C,l)=>{l.exports=_jsx_runtime});var _={};f(_,{default:()=>c,frontmatter:()=>D});var t=x(h()),D={title:\"Netflix Global Content Strategy & Growth Analytics\",description:\"Mapping the evolution of a streaming giant through data engineering and visual storytelling.\",date:\"2024-02-01\",repository:\"Adityasinh09/Netflix-Content-Strategy-Analysis\",url:\"https://public.tableau.com/app/profile/adityasinh.chauhan/viz/NetflixContentStrategyAnalysis_17737949998940/Dashboard1\",image:\"/netflix-strategy-dashboard.png\",tags:[\"Python\",\"Tableau\",\"Data Engineering\",\"Pandas\"],published:!0};function d(e){let n={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h2,{children:\"Overview\"}),`\n`,(0,t.jsx)(n.p,{children:`Developed a Python-based data cleaning pipeline and built a comprehensive Tableau dashboard to visualize Netflix's 2014\\u20132019 \"Content Explosion\" era, mapping the platform's strategic shift from US-centric content to a global production powerhouse.`}),`\n`,(0,t.jsx)(n.h2,{children:\"Key Findings\"}),`\n`,(0,t.jsxs)(n.ul,{children:[`\n`,(0,t.jsxs)(n.li,{children:[\"Identified that the library remains \",(0,t.jsx)(n.strong,{children:\"70% movie-heavy\"}),\" despite global audience shifts toward episodic content.\"]}),`\n`,(0,t.jsxs)(n.li,{children:[\"Uncovered International Dramas as the \",(0,t.jsx)(n.strong,{children:\"primary engine for non-US growth\"}),\", indicating a deliberate strategy of using cinema as a market-entry vehicle.\"]}),`\n`,(0,t.jsx)(n.li,{children:\"Mapped regional production hubs and their contribution to Netflix's subscriber growth milestones.\"}),`\n`]}),`\n`,(0,t.jsx)(n.h2,{children:\"Tools & Stack\"}),`\n`,(0,t.jsx)(n.p,{children:\"Python \\xB7 Pandas \\xB7 Tableau \\xB7 Data Engineering \\xB7 EDA\"})]})}function c(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return v(_);})();\n;return Component;"
+  },
+  "_id": "projects/netflix-strategy.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/netflix-strategy.mdx",
+    "sourceFileName": "netflix-strategy.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/netflix-strategy"
+  },
+  "type": "Project",
+  "slug": "netflix-strategy"
+}

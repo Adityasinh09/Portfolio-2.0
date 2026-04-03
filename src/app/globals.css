@@ -1,26 +1,103 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #000000;
+  --foreground: #ffffff;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  --font-sans: var(--font-sans, ui-sans-serif, system-ui, sans-serif);
+  --font-display: var(--font-display, ui-serif, Georgia, serif);
+
+  --animate-fade-in: fade-in 3s ease-in-out forwards;
+  --animate-title: title 3s ease-out forwards;
+  --animate-fade-left: fade-left 3s ease-in-out forwards;
+  --animate-fade-right: fade-right 3s ease-in-out forwards;
+
+  @keyframes fade-in {
+    0% { opacity: 0; }
+    75% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  @keyframes fade-left {
+    0% { transform: translateX(100%); opacity: 0; }
+    30% { transform: translateX(0%); opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+  @keyframes fade-right {
+    0% { transform: translateX(-100%); opacity: 0; }
+    30% { transform: translateX(0%); opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+  @keyframes title {
+    0% { line-height: 0%; letter-spacing: 0.25em; opacity: 0; }
+    25% { line-height: 0%; opacity: 0; }
+    80% { opacity: 1; }
+    100% { line-height: 100%; opacity: 1; }
   }
 }
 
 body {
-  background: var(--background);
+  background-color: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.75;
+  letter-spacing: -0.011em;
+}
+
+/* Heading typography system */
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+  font-weight: 700;
+}
+
+h1 { font-size: clamp(2.5rem, 6vw, 5rem); }
+h2 { font-size: clamp(1.75rem, 3vw, 2.5rem); }
+h3 { font-size: clamp(1.25rem, 2vw, 1.75rem); }
+
+p {
+  color: rgb(161 161 170); /* zinc-400 */
+  line-height: 1.8;
+}
+
+/* Refined link styles */
+a {
+  transition: color 0.15s ease;
+}
+
+/* Prose override for article pages */
+.prose {
+  --tw-prose-body: rgb(161 161 170);
+  --tw-prose-headings: rgb(244 244 245);
+  --tw-prose-links: rgb(255 255 255);
+  --tw-prose-bold: rgb(228 228 231);
+  --tw-prose-hr: rgb(39 39 42);
+  --tw-prose-bullets: rgb(113 113 122);
+  --tw-prose-code: rgb(244 244 245);
+  --tw-prose-pre-bg: rgb(24 24 27);
+}
+
+@layer utilities {
+  .text-edge-outline {
+    -webkit-text-stroke: 1px rgba(255,255,255,0.3);
+  }
+
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
 }

@@ -1,0 +1,28 @@
+{
+  "title": "WiFiScan — Wireless Diagnostic Tool",
+  "description": "Engineered a Python-based diagnostic utility featuring hardware interfacing and multi-module scanning to parse raw network data into human-readable reports.",
+  "date": "2022-01-01T00:00:00.000Z",
+  "url": "https://drive.google.com/file/d/15_vbz90Y61v0KU_CjqPodfeQnR1TE6Cf/view?usp=sharing",
+  "published": true,
+  "image": "/wifiscan-tool.png",
+  "tags": [
+    "Python",
+    "Scapy",
+    "Socket Library",
+    "Network Protocols"
+  ],
+  "body": {
+    "raw": "\n## Overview\n\nEngineered a modular, command-line Python diagnostic utility that interfaces directly with wireless hardware to capture, scan, and report on local network topology.\n\n## Technical Highlights\n\n- Built a **modular architecture** for packet capture, active host discovery, and port scanning using Scapy and the Socket library.\n- Engineered backend communication with **PCIe adapters** to retrieve and parse GUID and physical MAC address data.\n- Outputs clean, human-readable scan reports from raw network packet data.\n\n## Tools & Stack\n\nPython · Scapy · Socket Library · Network Protocols · PCIe Hardware Interfacing\n",
+    "code": "var Component=(()=>{var u=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var y=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),f=(n,e)=>{for(var r in e)i(n,r,{get:e[r],enumerable:!0})},c=(n,e,r,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of g(e))!w.call(n,a)&&a!==r&&i(n,a,{get:()=>e[a],enumerable:!(o=p(e,a))||o.enumerable});return n};var k=(n,e,r)=>(r=n!=null?u(m(n)):{},c(e||!n||!n.__esModule?i(r,\"default\",{value:n,enumerable:!0}):r,n)),b=n=>c(i({},\"__esModule\",{value:!0}),n);var l=y((_,s)=>{s.exports=_jsx_runtime});var x={};f(x,{default:()=>h,frontmatter:()=>v});var t=k(l()),v={title:\"WiFiScan \\u2014 Wireless Diagnostic Tool\",description:\"Engineered a Python-based diagnostic utility featuring hardware interfacing and multi-module scanning to parse raw network data into human-readable reports.\",date:\"2022-01-01\",url:\"https://drive.google.com/file/d/15_vbz90Y61v0KU_CjqPodfeQnR1TE6Cf/view?usp=sharing\",image:\"/wifiscan-tool.png\",tags:[\"Python\",\"Scapy\",\"Socket Library\",\"Network Protocols\"],published:!0};function d(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,t.jsx)(e.p,{children:\"Engineered a modular, command-line Python diagnostic utility that interfaces directly with wireless hardware to capture, scan, and report on local network topology.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Technical Highlights\"}),`\n`,(0,t.jsxs)(e.ul,{children:[`\n`,(0,t.jsxs)(e.li,{children:[\"Built a \",(0,t.jsx)(e.strong,{children:\"modular architecture\"}),\" for packet capture, active host discovery, and port scanning using Scapy and the Socket library.\"]}),`\n`,(0,t.jsxs)(e.li,{children:[\"Engineered backend communication with \",(0,t.jsx)(e.strong,{children:\"PCIe adapters\"}),\" to retrieve and parse GUID and physical MAC address data.\"]}),`\n`,(0,t.jsx)(e.li,{children:\"Outputs clean, human-readable scan reports from raw network packet data.\"}),`\n`]}),`\n`,(0,t.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,t.jsx)(e.p,{children:\"Python \\xB7 Scapy \\xB7 Socket Library \\xB7 Network Protocols \\xB7 PCIe Hardware Interfacing\"})]})}function h(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(d,{...n})}):d(n)}return b(x);})();\n;return Component;"
+  },
+  "_id": "projects/wifiscan.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/wifiscan.mdx",
+    "sourceFileName": "wifiscan.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/wifiscan"
+  },
+  "type": "Project",
+  "slug": "wifiscan"
+}

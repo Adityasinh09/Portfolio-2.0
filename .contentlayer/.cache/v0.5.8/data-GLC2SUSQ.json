@@ -1,0 +1,300 @@
+{
+  "cacheItemsMap": {
+    "projects/6g-smart-city.mdx": {
+      "document": {
+        "title": "6G & Smart City IoT Framework — Academic Publication",
+        "description": "Peer-Reviewed Research published under Springer Nature addressing the 6G-Enabled Smart Cities paradigm, focusing on bandwidth and AI integration in home automation frameworks.",
+        "date": "2023-11-01T00:00:00.000Z",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-85923-6_11",
+        "published": true,
+        "image": "/6g-research-paper.png",
+        "tags": [
+          "IoT",
+          "6G Networking",
+          "Internet Computing",
+          "Embedded Systems",
+          "AI"
+        ],
+        "body": {
+          "raw": "\n## Publication\n\n**Springer Nature Link** · Conference Proceedings, pp. 137–150\n\n## Abstract\n\nThis peer-reviewed conference paper addresses the \"6G-Enabled Smart Cities\" paradigm, exploring how ultra-high-bandwidth 6G connectivity combined with AI-driven home automation can unlock the next generation of intelligent urban infrastructure.\n\n## Key Contributions\n\n- Published as a **peer-reviewed conference paper (pp. 137–150)**, demonstrating rigorous academic validation and expert review.\n- Conducted in-depth analysis on the **evolution of IoT connectivity** from 4G/5G to 6G, contributing to cyber-physical systems research.\n- Proposed an architectural framework integrating **embedded systems and AI inference** at the edge for real-time smart home control.\n\n## Tools & Domains\n\nInternet Computing · IoT · 6G Networking · Embedded Systems · AI · Smart Cities\n",
+          "code": "var Component=(()=>{var m=Object.create;var o=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,b=Object.prototype.hasOwnProperty;var f=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),w=(n,e)=>{for(var r in e)o(n,r,{get:e[r],enumerable:!0})},s=(n,e,r,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!b.call(n,i)&&i!==r&&o(n,i,{get:()=>e[i],enumerable:!(a=p(e,i))||a.enumerable});return n};var x=(n,e,r)=>(r=n!=null?m(g(n)):{},s(e||!n||!n.__esModule?o(r,\"default\",{value:n,enumerable:!0}):r,n)),y=n=>s(o({},\"__esModule\",{value:!0}),n);var c=f((G,d)=>{d.exports=_jsx_runtime});var I={};w(I,{default:()=>l,frontmatter:()=>C});var t=x(c()),C={title:\"6G & Smart City IoT Framework \\u2014 Academic Publication\",description:\"Peer-Reviewed Research published under Springer Nature addressing the 6G-Enabled Smart Cities paradigm, focusing on bandwidth and AI integration in home automation frameworks.\",date:\"2023-11-01\",url:\"https://link.springer.com/chapter/10.1007/978-3-031-85923-6_11\",image:\"/6g-research-paper.png\",tags:[\"IoT\",\"6G Networking\",\"Internet Computing\",\"Embedded Systems\",\"AI\"],published:!0};function h(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h2,{children:\"Publication\"}),`\n`,(0,t.jsxs)(e.p,{children:[(0,t.jsx)(e.strong,{children:\"Springer Nature Link\"}),\" \\xB7 Conference Proceedings, pp. 137\\u2013150\"]}),`\n`,(0,t.jsx)(e.h2,{children:\"Abstract\"}),`\n`,(0,t.jsx)(e.p,{children:'This peer-reviewed conference paper addresses the \"6G-Enabled Smart Cities\" paradigm, exploring how ultra-high-bandwidth 6G connectivity combined with AI-driven home automation can unlock the next generation of intelligent urban infrastructure.'}),`\n`,(0,t.jsx)(e.h2,{children:\"Key Contributions\"}),`\n`,(0,t.jsxs)(e.ul,{children:[`\n`,(0,t.jsxs)(e.li,{children:[\"Published as a \",(0,t.jsx)(e.strong,{children:\"peer-reviewed conference paper (pp. 137\\u2013150)\"}),\", demonstrating rigorous academic validation and expert review.\"]}),`\n`,(0,t.jsxs)(e.li,{children:[\"Conducted in-depth analysis on the \",(0,t.jsx)(e.strong,{children:\"evolution of IoT connectivity\"}),\" from 4G/5G to 6G, contributing to cyber-physical systems research.\"]}),`\n`,(0,t.jsxs)(e.li,{children:[\"Proposed an architectural framework integrating \",(0,t.jsx)(e.strong,{children:\"embedded systems and AI inference\"}),\" at the edge for real-time smart home control.\"]}),`\n`]}),`\n`,(0,t.jsx)(e.h2,{children:\"Tools & Domains\"}),`\n`,(0,t.jsx)(e.p,{children:\"Internet Computing \\xB7 IoT \\xB7 6G Networking \\xB7 Embedded Systems \\xB7 AI \\xB7 Smart Cities\"})]})}function l(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(h,{...n})}):h(n)}return y(I);})();\n;return Component;"
+        },
+        "_id": "projects/6g-smart-city.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/6g-smart-city.mdx",
+          "sourceFileName": "6g-smart-city.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/6g-smart-city"
+        },
+        "type": "Project",
+        "slug": "6g-smart-city"
+      },
+      "documentHash": "1775256104180",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/fashion-hub.mdx": {
+      "document": {
+        "title": "Fashion Hub — E-Commerce UI/UX Concept",
+        "description": "Blending bold aesthetics with functional design to create an immersive retail experience.",
+        "date": "2023-01-01T00:00:00.000Z",
+        "published": true,
+        "image": "/fashion-hub-design-1.png",
+        "tags": [
+          "Figma",
+          "UI/UX",
+          "Prototyping",
+          "Responsive Design"
+        ],
+        "body": {
+          "raw": "\n## Overview\n\nDesigned a full responsive e-commerce platform focused on conversion-driven design, intuitive user flows, and a striking visual identity for a fashion retail brand.\n\n## Design Highlights\n\n- Utilized a **vibrant color palette and bold typography** to create a visually striking, brand-forward interface.\n- Designed a full **product discovery flow**: homepage → category → product detail → checkout, optimized for conversion.\n- Ensured high functionality and intuitive user flows across multiple device formats (mobile, tablet, desktop).\n\n## Tools & Stack\n\nFigma · Prototyping · Responsive Design · Color Theory · Visual Hierarchy\n",
+          "code": "var Component=(()=>{var u=Object.create;var o=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var v=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),y=(n,e)=>{for(var t in e)o(n,t,{get:e[t],enumerable:!0})},a=(n,e,t,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of p(e))!f.call(n,r)&&r!==t&&o(n,r,{get:()=>e[r],enumerable:!(s=g(e,r))||s.enumerable});return n};var b=(n,e,t)=>(t=n!=null?u(m(n)):{},a(e||!n||!n.__esModule?o(t,\"default\",{value:n,enumerable:!0}):t,n)),x=n=>a(o({},\"__esModule\",{value:!0}),n);var c=v((j,l)=>{l.exports=_jsx_runtime});var D={};y(D,{default:()=>h,frontmatter:()=>w});var i=b(c()),w={title:\"Fashion Hub \\u2014 E-Commerce UI/UX Concept\",description:\"Blending bold aesthetics with functional design to create an immersive retail experience.\",date:\"2023-01-01\",image:\"/fashion-hub-design-1.png\",tags:[\"Figma\",\"UI/UX\",\"Prototyping\",\"Responsive Design\"],published:!0};function d(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,i.jsx)(e.p,{children:\"Designed a full responsive e-commerce platform focused on conversion-driven design, intuitive user flows, and a striking visual identity for a fashion retail brand.\"}),`\n`,(0,i.jsx)(e.h2,{children:\"Design Highlights\"}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[\"Utilized a \",(0,i.jsx)(e.strong,{children:\"vibrant color palette and bold typography\"}),\" to create a visually striking, brand-forward interface.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[\"Designed a full \",(0,i.jsx)(e.strong,{children:\"product discovery flow\"}),\": homepage \\u2192 category \\u2192 product detail \\u2192 checkout, optimized for conversion.\"]}),`\n`,(0,i.jsx)(e.li,{children:\"Ensured high functionality and intuitive user flows across multiple device formats (mobile, tablet, desktop).\"}),`\n`]}),`\n`,(0,i.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,i.jsx)(e.p,{children:\"Figma \\xB7 Prototyping \\xB7 Responsive Design \\xB7 Color Theory \\xB7 Visual Hierarchy\"})]})}function h(n={}){let{wrapper:e}=n.components||{};return e?(0,i.jsx)(e,{...n,children:(0,i.jsx)(d,{...n})}):d(n)}return x(D);})();\n;return Component;"
+        },
+        "_id": "projects/fashion-hub.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/fashion-hub.mdx",
+          "sourceFileName": "fashion-hub.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/fashion-hub"
+        },
+        "type": "Project",
+        "slug": "fashion-hub"
+      },
+      "documentHash": "1775256075059",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/mobile-todo.mdx": {
+      "document": {
+        "title": "Mobile To-Do App UI/UX Concept",
+        "description": "A minimalist, high-usability interface geared towards efficient task tracking, designed for mobile-first interaction.",
+        "date": "2023-02-01T00:00:00.000Z",
+        "published": true,
+        "image": "/mobile-todo-1.png",
+        "tags": [
+          "Figma",
+          "Visual Hierarchy",
+          "Color Theory",
+          "Prototyping"
+        ],
+        "body": {
+          "raw": "\n## Overview\n\nDesigned a high-fidelity mobile application UI/UX concept for a task management tool, prioritizing user interaction clarity and minimalist visual design.\n\n## Design Highlights\n\n- Successfully transitioned from **low-fidelity wireframes** to a comprehensive high-fidelity design system.\n- Optimized visual hierarchy to enhance task persistence and interaction clarity across all key screens.\n- Applied **color theory** and micro-interaction principles to create an engaging, distraction-free experience.\n\n## Tools & Stack\n\nFigma · Visual Hierarchy · Color Theory · Prototyping · Motion Design\n",
+          "code": "var Component=(()=>{var g=Object.create;var o=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,i)=>()=>(i||e((i={exports:{}}).exports,i),i.exports),x=(e,i)=>{for(var t in i)o(e,t,{get:i[t],enumerable:!0})},s=(e,i,t,a)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let r of p(i))!f.call(e,r)&&r!==t&&o(e,r,{get:()=>i[r],enumerable:!(a=m(i,r))||a.enumerable});return e};var _=(e,i,t)=>(t=e!=null?g(u(e)):{},s(i||!e||!e.__esModule?o(t,\"default\",{value:e,enumerable:!0}):t,e)),b=e=>s(o({},\"__esModule\",{value:!0}),e);var c=y((v,l)=>{l.exports=_jsx_runtime});var D={};x(D,{default:()=>h,frontmatter:()=>k});var n=_(c()),k={title:\"Mobile To-Do App UI/UX Concept\",description:\"A minimalist, high-usability interface geared towards efficient task tracking, designed for mobile-first interaction.\",date:\"2023-02-01\",image:\"/mobile-todo-1.png\",tags:[\"Figma\",\"Visual Hierarchy\",\"Color Theory\",\"Prototyping\"],published:!0};function d(e){let i={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(i.h2,{children:\"Overview\"}),`\n`,(0,n.jsx)(i.p,{children:\"Designed a high-fidelity mobile application UI/UX concept for a task management tool, prioritizing user interaction clarity and minimalist visual design.\"}),`\n`,(0,n.jsx)(i.h2,{children:\"Design Highlights\"}),`\n`,(0,n.jsxs)(i.ul,{children:[`\n`,(0,n.jsxs)(i.li,{children:[\"Successfully transitioned from \",(0,n.jsx)(i.strong,{children:\"low-fidelity wireframes\"}),\" to a comprehensive high-fidelity design system.\"]}),`\n`,(0,n.jsx)(i.li,{children:\"Optimized visual hierarchy to enhance task persistence and interaction clarity across all key screens.\"}),`\n`,(0,n.jsxs)(i.li,{children:[\"Applied \",(0,n.jsx)(i.strong,{children:\"color theory\"}),\" and micro-interaction principles to create an engaging, distraction-free experience.\"]}),`\n`]}),`\n`,(0,n.jsx)(i.h2,{children:\"Tools & Stack\"}),`\n`,(0,n.jsx)(i.p,{children:\"Figma \\xB7 Visual Hierarchy \\xB7 Color Theory \\xB7 Prototyping \\xB7 Motion Design\"})]})}function h(e={}){let{wrapper:i}=e.components||{};return i?(0,n.jsx)(i,{...e,children:(0,n.jsx)(d,{...e})}):d(e)}return b(D);})();\n;return Component;"
+        },
+        "_id": "projects/mobile-todo.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/mobile-todo.mdx",
+          "sourceFileName": "mobile-todo.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/mobile-todo"
+        },
+        "type": "Project",
+        "slug": "mobile-todo"
+      },
+      "documentHash": "1775256088663",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/netflix-strategy.mdx": {
+      "document": {
+        "title": "Netflix Global Content Strategy & Growth Analytics",
+        "description": "Mapping the evolution of a streaming giant through data engineering and visual storytelling.",
+        "date": "2024-02-01T00:00:00.000Z",
+        "url": "https://public.tableau.com/app/profile/adityasinh.chauhan/viz/NetflixContentStrategyAnalysis_17737949998940/Dashboard1",
+        "repository": "Adityasinh09/Netflix-Content-Strategy-Analysis",
+        "published": true,
+        "image": "/netflix-strategy-dashboard.png",
+        "tags": [
+          "Python",
+          "Tableau",
+          "Data Engineering",
+          "Pandas"
+        ],
+        "body": {
+          "raw": "\n## Overview\n\nDeveloped a Python-based data cleaning pipeline and built a comprehensive Tableau dashboard to visualize Netflix's 2014–2019 \"Content Explosion\" era, mapping the platform's strategic shift from US-centric content to a global production powerhouse.\n\n## Key Findings\n\n- Identified that the library remains **70% movie-heavy** despite global audience shifts toward episodic content.\n- Uncovered International Dramas as the **primary engine for non-US growth**, indicating a deliberate strategy of using cinema as a market-entry vehicle.\n- Mapped regional production hubs and their contribution to Netflix's subscriber growth milestones.\n\n## Tools & Stack\n\nPython · Pandas · Tableau · Data Engineering · EDA\n",
+          "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var b=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),f=(e,n)=>{for(var i in n)r(e,i,{get:n[i],enumerable:!0})},s=(e,n,i,o)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let a of u(n))!y.call(e,a)&&a!==i&&r(e,a,{get:()=>n[a],enumerable:!(o=p(n,a))||o.enumerable});return e};var x=(e,n,i)=>(i=e!=null?g(m(e)):{},s(n||!e||!e.__esModule?r(i,\"default\",{value:e,enumerable:!0}):i,e)),v=e=>s(r({},\"__esModule\",{value:!0}),e);var h=b((C,l)=>{l.exports=_jsx_runtime});var _={};f(_,{default:()=>c,frontmatter:()=>D});var t=x(h()),D={title:\"Netflix Global Content Strategy & Growth Analytics\",description:\"Mapping the evolution of a streaming giant through data engineering and visual storytelling.\",date:\"2024-02-01\",repository:\"Adityasinh09/Netflix-Content-Strategy-Analysis\",url:\"https://public.tableau.com/app/profile/adityasinh.chauhan/viz/NetflixContentStrategyAnalysis_17737949998940/Dashboard1\",image:\"/netflix-strategy-dashboard.png\",tags:[\"Python\",\"Tableau\",\"Data Engineering\",\"Pandas\"],published:!0};function d(e){let n={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...e.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(n.h2,{children:\"Overview\"}),`\n`,(0,t.jsx)(n.p,{children:`Developed a Python-based data cleaning pipeline and built a comprehensive Tableau dashboard to visualize Netflix's 2014\\u20132019 \"Content Explosion\" era, mapping the platform's strategic shift from US-centric content to a global production powerhouse.`}),`\n`,(0,t.jsx)(n.h2,{children:\"Key Findings\"}),`\n`,(0,t.jsxs)(n.ul,{children:[`\n`,(0,t.jsxs)(n.li,{children:[\"Identified that the library remains \",(0,t.jsx)(n.strong,{children:\"70% movie-heavy\"}),\" despite global audience shifts toward episodic content.\"]}),`\n`,(0,t.jsxs)(n.li,{children:[\"Uncovered International Dramas as the \",(0,t.jsx)(n.strong,{children:\"primary engine for non-US growth\"}),\", indicating a deliberate strategy of using cinema as a market-entry vehicle.\"]}),`\n`,(0,t.jsx)(n.li,{children:\"Mapped regional production hubs and their contribution to Netflix's subscriber growth milestones.\"}),`\n`]}),`\n`,(0,t.jsx)(n.h2,{children:\"Tools & Stack\"}),`\n`,(0,t.jsx)(n.p,{children:\"Python \\xB7 Pandas \\xB7 Tableau \\xB7 Data Engineering \\xB7 EDA\"})]})}function c(e={}){let{wrapper:n}=e.components||{};return n?(0,t.jsx)(n,{...e,children:(0,t.jsx)(d,{...e})}):d(e)}return v(_);})();\n;return Component;"
+        },
+        "_id": "projects/netflix-strategy.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/netflix-strategy.mdx",
+          "sourceFileName": "netflix-strategy.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/netflix-strategy"
+        },
+        "type": "Project",
+        "slug": "netflix-strategy"
+      },
+      "documentHash": "1775256069821",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/oasis-hospital.mdx": {
+      "document": {
+        "title": "Oasis Hospital Solution — UI/UX Design",
+        "description": "Designed a modular service grid, user-centric onboarding, and strategic CTA workflows for a healthcare platform.",
+        "date": "2022-06-01T00:00:00.000Z",
+        "published": true,
+        "image": "/oasis-hospital.png",
+        "tags": [
+          "Figma",
+          "Visual Hierarchy",
+          "Component Design",
+          "Responsive Layouts"
+        ],
+        "body": {
+          "raw": "\n## Overview\n\nDesigned an end-to-end UI/UX system for a multi-service hospital platform, covering patient onboarding, service discovery, and conversion-optimized call-to-action flows.\n\n## Design Highlights\n\n- Created a **custom card-based modular service grid** allowing easy future expansion for categories like Medical Tourism and Specialist Referrals.\n- Integrated **social login onboarding** to lower friction barriers for new policyholders and partners.\n- Strategically placed **\"Know More\" and \"Login\" CTAs** at key decision points to guide users toward conversion.\n- Leveraged custom illustrations to visually differentiate user types (patients, partners, staff) across the platform.\n\n## Tools & Stack\n\nFigma · Component Design · Visual Hierarchy · Responsive Layouts · Illustration\n",
+          "code": "var Component=(()=>{var u=Object.create;var o=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var v=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),y=(n,e)=>{for(var r in e)o(n,r,{get:e[r],enumerable:!0})},a=(n,e,r,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let t of p(e))!f.call(n,t)&&t!==r&&o(n,t,{get:()=>e[t],enumerable:!(s=h(e,t))||s.enumerable});return n};var w=(n,e,r)=>(r=n!=null?u(m(n)):{},a(e||!n||!n.__esModule?o(r,\"default\",{value:n,enumerable:!0}):r,n)),x=n=>a(o({},\"__esModule\",{value:!0}),n);var c=v((b,l)=>{l.exports=_jsx_runtime});var C={};y(C,{default:()=>g,frontmatter:()=>D});var i=w(c()),D={title:\"Oasis Hospital Solution \\u2014 UI/UX Design\",description:\"Designed a modular service grid, user-centric onboarding, and strategic CTA workflows for a healthcare platform.\",date:\"2022-06-01\",image:\"/oasis-hospital.png\",tags:[\"Figma\",\"Visual Hierarchy\",\"Component Design\",\"Responsive Layouts\"],published:!0};function d(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,i.jsx)(e.p,{children:\"Designed an end-to-end UI/UX system for a multi-service hospital platform, covering patient onboarding, service discovery, and conversion-optimized call-to-action flows.\"}),`\n`,(0,i.jsx)(e.h2,{children:\"Design Highlights\"}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[\"Created a \",(0,i.jsx)(e.strong,{children:\"custom card-based modular service grid\"}),\" allowing easy future expansion for categories like Medical Tourism and Specialist Referrals.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[\"Integrated \",(0,i.jsx)(e.strong,{children:\"social login onboarding\"}),\" to lower friction barriers for new policyholders and partners.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[\"Strategically placed \",(0,i.jsx)(e.strong,{children:'\"Know More\" and \"Login\" CTAs'}),\" at key decision points to guide users toward conversion.\"]}),`\n`,(0,i.jsx)(e.li,{children:\"Leveraged custom illustrations to visually differentiate user types (patients, partners, staff) across the platform.\"}),`\n`]}),`\n`,(0,i.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,i.jsx)(e.p,{children:\"Figma \\xB7 Component Design \\xB7 Visual Hierarchy \\xB7 Responsive Layouts \\xB7 Illustration\"})]})}function g(n={}){let{wrapper:e}=n.components||{};return e?(0,i.jsx)(e,{...n,children:(0,i.jsx)(d,{...n})}):d(n)}return x(C);})();\n;return Component;"
+        },
+        "_id": "projects/oasis-hospital.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/oasis-hospital.mdx",
+          "sourceFileName": "oasis-hospital.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/oasis-hospital"
+        },
+        "type": "Project",
+        "slug": "oasis-hospital"
+      },
+      "documentHash": "1775256110511",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/retail-sales.mdx": {
+      "document": {
+        "title": "Retail Sales & Customer Behavior Analytics",
+        "description": "Decoding consumer trends to drive revenue growth through EDA and Python. I analyzed a retail transaction dataset to identify high-value customer segments and product performance.",
+        "date": "2024-01-01T00:00:00.000Z",
+        "url": "https://public.tableau.com/app/profile/adityasinh.chauhan/viz/RetailSalesAnalysisDashboard_17737033125250/Dashboard1",
+        "repository": "Adityasinh09/Retail-Sales-and-Customer-Behavior-Analysis",
+        "published": true,
+        "image": "/retail-sales-dashboard.png",
+        "tags": [
+          "Python",
+          "Pandas",
+          "Seaborn",
+          "EDA",
+          "Tableau"
+        ],
+        "body": {
+          "raw": "\n## Overview\n\nAnalyzed a retail transaction dataset to decode purchasing patterns, identify high-value customer segments, and surface product performance insights using Python and Pandas.\n\n## Key Findings\n\n- Uncovered that **30–50 year-olds** drive the highest average spend per transaction.\n- Identified top-performing product categories contributing to 60%+ of total revenue.\n- Provided a clear segmentation target for marketing optimization to drive sustainable revenue growth.\n\n## Tools & Stack\n\nPython · Pandas · Seaborn · Matplotlib · Tableau · EDA\n",
+          "code": "var Component=(()=>{var u=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var v=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var a in e)i(t,a,{get:e[a],enumerable:!0})},s=(t,e,a,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of g(e))!y.call(t,r)&&r!==a&&i(t,r,{get:()=>e[r],enumerable:!(o=p(e,r))||o.enumerable});return t};var b=(t,e,a)=>(a=t!=null?u(m(t)):{},s(e||!t||!t.__esModule?i(a,\"default\",{value:t,enumerable:!0}):a,t)),x=t=>s(i({},\"__esModule\",{value:!0}),t);var l=v((_,d)=>{d.exports=_jsx_runtime});var D={};f(D,{default:()=>h,frontmatter:()=>A});var n=b(l()),A={title:\"Retail Sales & Customer Behavior Analytics\",description:\"Decoding consumer trends to drive revenue growth through EDA and Python. I analyzed a retail transaction dataset to identify high-value customer segments and product performance.\",date:\"2024-01-01\",repository:\"Adityasinh09/Retail-Sales-and-Customer-Behavior-Analysis\",url:\"https://public.tableau.com/app/profile/adityasinh.chauhan/viz/RetailSalesAnalysisDashboard_17737033125250/Dashboard1\",image:\"/retail-sales-dashboard.png\",tags:[\"Python\",\"Pandas\",\"Seaborn\",\"EDA\",\"Tableau\"],published:!0};function c(t){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,n.jsx)(e.p,{children:\"Analyzed a retail transaction dataset to decode purchasing patterns, identify high-value customer segments, and surface product performance insights using Python and Pandas.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"Key Findings\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsxs)(e.li,{children:[\"Uncovered that \",(0,n.jsx)(e.strong,{children:\"30\\u201350 year-olds\"}),\" drive the highest average spend per transaction.\"]}),`\n`,(0,n.jsx)(e.li,{children:\"Identified top-performing product categories contributing to 60%+ of total revenue.\"}),`\n`,(0,n.jsx)(e.li,{children:\"Provided a clear segmentation target for marketing optimization to drive sustainable revenue growth.\"}),`\n`]}),`\n`,(0,n.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,n.jsx)(e.p,{children:\"Python \\xB7 Pandas \\xB7 Seaborn \\xB7 Matplotlib \\xB7 Tableau \\xB7 EDA\"})]})}function h(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(c,{...t})}):c(t)}return x(D);})();\n;return Component;"
+        },
+        "_id": "projects/retail-sales.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/retail-sales.mdx",
+          "sourceFileName": "retail-sales.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/retail-sales"
+        },
+        "type": "Project",
+        "slug": "retail-sales"
+      },
+      "documentHash": "1775256063841",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/task-management.mdx": {
+      "document": {
+        "title": "Dynamic Task Management Web App",
+        "description": "A sleek, persistent To-Do application built with vanilla JavaScript and Local Storage, focusing on a zero-loss user experience.",
+        "date": "2023-10-01T00:00:00.000Z",
+        "published": true,
+        "image": "/task-app-1.png",
+        "tags": [
+          "JavaScript",
+          "Local Storage",
+          "DOM Manipulation",
+          "CSS"
+        ],
+        "body": {
+          "raw": "\n## Overview\n\nBuilt a fully functional To-Do application using vanilla JavaScript featuring real-time DOM manipulation and data persistence via the `localStorage` API — ensuring tasks are never lost across sessions.\n\n## Technical Highlights\n\n- Implemented the **localStorage API** for complete data persistence and state management without a backend.\n- Engineered input validation and vanilla JavaScript **DOM manipulation** for seamless real-time task creation, editing, and deletion.\n- Applied a modern glassmorphism UI with smooth transitions for a premium feel.\n\n## Tools & Stack\n\nJavaScript · HTML · CSS · Local Storage · DOM Manipulation\n",
+          "code": "var Component=(()=>{var h=Object.create;var o=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,S=Object.prototype.hasOwnProperty;var f=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),v=(n,e)=>{for(var t in e)o(n,t,{get:e[t],enumerable:!0})},l=(n,e,t,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!S.call(n,i)&&i!==t&&o(n,i,{get:()=>e[i],enumerable:!(r=m(e,i))||r.enumerable});return n};var M=(n,e,t)=>(t=n!=null?h(g(n)):{},l(e||!n||!n.__esModule?o(t,\"default\",{value:n,enumerable:!0}):t,n)),x=n=>l(o({},\"__esModule\",{value:!0}),n);var c=f((T,s)=>{s.exports=_jsx_runtime});var k={};v(k,{default:()=>d,frontmatter:()=>D});var a=M(c()),D={title:\"Dynamic Task Management Web App\",description:\"A sleek, persistent To-Do application built with vanilla JavaScript and Local Storage, focusing on a zero-loss user experience.\",date:\"2023-10-01\",image:\"/task-app-1.png\",tags:[\"JavaScript\",\"Local Storage\",\"DOM Manipulation\",\"CSS\"],published:!0};function p(n){let e={code:\"code\",h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,a.jsxs)(e.p,{children:[\"Built a fully functional To-Do application using vanilla JavaScript featuring real-time DOM manipulation and data persistence via the \",(0,a.jsx)(e.code,{children:\"localStorage\"}),\" API \\u2014 ensuring tasks are never lost across sessions.\"]}),`\n`,(0,a.jsx)(e.h2,{children:\"Technical Highlights\"}),`\n`,(0,a.jsxs)(e.ul,{children:[`\n`,(0,a.jsxs)(e.li,{children:[\"Implemented the \",(0,a.jsx)(e.strong,{children:\"localStorage API\"}),\" for complete data persistence and state management without a backend.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[\"Engineered input validation and vanilla JavaScript \",(0,a.jsx)(e.strong,{children:\"DOM manipulation\"}),\" for seamless real-time task creation, editing, and deletion.\"]}),`\n`,(0,a.jsx)(e.li,{children:\"Applied a modern glassmorphism UI with smooth transitions for a premium feel.\"}),`\n`]}),`\n`,(0,a.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,a.jsx)(e.p,{children:\"JavaScript \\xB7 HTML \\xB7 CSS \\xB7 Local Storage \\xB7 DOM Manipulation\"})]})}function d(n={}){let{wrapper:e}=n.components||{};return e?(0,a.jsx)(e,{...n,children:(0,a.jsx)(p,{...n})}):p(n)}return x(k);})();\n;return Component;"
+        },
+        "_id": "projects/task-management.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/task-management.mdx",
+          "sourceFileName": "task-management.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/task-management"
+        },
+        "type": "Project",
+        "slug": "task-management"
+      },
+      "documentHash": "1775256080987",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/vegetable-market.mdx": {
+      "document": {
+        "title": "Vegetable Market App — UI/UX Design",
+        "description": "A comprehensive UI/UX design featuring component-driven product cards, an immersive onboarding experience, and engaging micro-interactions for a fresh produce marketplace.",
+        "date": "2022-08-01T00:00:00.000Z",
+        "published": true,
+        "image": "/vegetable-market-1.png",
+        "tags": [
+          "Figma",
+          "UI Design",
+          "Prototyping",
+          "Digital Branding"
+        ],
+        "body": {
+          "raw": "\n## Overview\n\nDesigned a full mobile app UI/UX experience for a fresh vegetable marketplace, optimizing for discoverability, conversion, and a delightful shopping experience.\n\n## Design Highlights\n\n- Created **reusable product cards** with strategic calls-to-action (Add to Cart, Quick View) to increase conversion rates.\n- Designed a **5-tab bottom navigation bar** for instant access to Home, Search, Cart, Orders, and Profile.\n- Planned **intuitive checkout banners and promotional sliders** to maximize average order value.\n- Applied a fresh, vibrant color palette aligned with the brand's natural, farm-to-table identity.\n\n## Tools & Stack\n\nFigma · UI Design · Digital Branding · Prototyping · Motion Design\n",
+          "code": "var Component=(()=>{var h=Object.create;var a=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var b=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),v=(n,e)=>{for(var t in e)a(n,t,{get:e[t],enumerable:!0})},s=(n,e,t,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of m(e))!f.call(n,r)&&r!==t&&a(n,r,{get:()=>e[r],enumerable:!(o=p(e,r))||o.enumerable});return n};var x=(n,e,t)=>(t=n!=null?h(u(n)):{},s(e||!n||!n.__esModule?a(t,\"default\",{value:n,enumerable:!0}):t,n)),D=n=>s(a({},\"__esModule\",{value:!0}),n);var c=b((j,l)=>{l.exports=_jsx_runtime});var k={};v(k,{default:()=>g,frontmatter:()=>U});var i=x(c()),U={title:\"Vegetable Market App \\u2014 UI/UX Design\",description:\"A comprehensive UI/UX design featuring component-driven product cards, an immersive onboarding experience, and engaging micro-interactions for a fresh produce marketplace.\",date:\"2022-08-01\",image:\"/vegetable-market-1.png\",tags:[\"Figma\",\"UI Design\",\"Prototyping\",\"Digital Branding\"],published:!0};function d(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,i.jsx)(e.p,{children:\"Designed a full mobile app UI/UX experience for a fresh vegetable marketplace, optimizing for discoverability, conversion, and a delightful shopping experience.\"}),`\n`,(0,i.jsx)(e.h2,{children:\"Design Highlights\"}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[\"Created \",(0,i.jsx)(e.strong,{children:\"reusable product cards\"}),\" with strategic calls-to-action (Add to Cart, Quick View) to increase conversion rates.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[\"Designed a \",(0,i.jsx)(e.strong,{children:\"5-tab bottom navigation bar\"}),\" for instant access to Home, Search, Cart, Orders, and Profile.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[\"Planned \",(0,i.jsx)(e.strong,{children:\"intuitive checkout banners and promotional sliders\"}),\" to maximize average order value.\"]}),`\n`,(0,i.jsx)(e.li,{children:\"Applied a fresh, vibrant color palette aligned with the brand's natural, farm-to-table identity.\"}),`\n`]}),`\n`,(0,i.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,i.jsx)(e.p,{children:\"Figma \\xB7 UI Design \\xB7 Digital Branding \\xB7 Prototyping \\xB7 Motion Design\"})]})}function g(n={}){let{wrapper:e}=n.components||{};return e?(0,i.jsx)(e,{...n,children:(0,i.jsx)(d,{...n})}):d(n)}return D(k);})();\n;return Component;"
+        },
+        "_id": "projects/vegetable-market.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/vegetable-market.mdx",
+          "sourceFileName": "vegetable-market.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/vegetable-market"
+        },
+        "type": "Project",
+        "slug": "vegetable-market"
+      },
+      "documentHash": "1775256112548",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/wifiscan.mdx": {
+      "document": {
+        "title": "WiFiScan — Wireless Diagnostic Tool",
+        "description": "Engineered a Python-based diagnostic utility featuring hardware interfacing and multi-module scanning to parse raw network data into human-readable reports.",
+        "date": "2022-01-01T00:00:00.000Z",
+        "url": "https://drive.google.com/file/d/15_vbz90Y61v0KU_CjqPodfeQnR1TE6Cf/view?usp=sharing",
+        "published": true,
+        "image": "/wifiscan-tool.png",
+        "tags": [
+          "Python",
+          "Scapy",
+          "Socket Library",
+          "Network Protocols"
+        ],
+        "body": {
+          "raw": "\n## Overview\n\nEngineered a modular, command-line Python diagnostic utility that interfaces directly with wireless hardware to capture, scan, and report on local network topology.\n\n## Technical Highlights\n\n- Built a **modular architecture** for packet capture, active host discovery, and port scanning using Scapy and the Socket library.\n- Engineered backend communication with **PCIe adapters** to retrieve and parse GUID and physical MAC address data.\n- Outputs clean, human-readable scan reports from raw network packet data.\n\n## Tools & Stack\n\nPython · Scapy · Socket Library · Network Protocols · PCIe Hardware Interfacing\n",
+          "code": "var Component=(()=>{var u=Object.create;var i=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var y=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),f=(n,e)=>{for(var r in e)i(n,r,{get:e[r],enumerable:!0})},c=(n,e,r,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of g(e))!w.call(n,a)&&a!==r&&i(n,a,{get:()=>e[a],enumerable:!(o=p(e,a))||o.enumerable});return n};var k=(n,e,r)=>(r=n!=null?u(m(n)):{},c(e||!n||!n.__esModule?i(r,\"default\",{value:n,enumerable:!0}):r,n)),b=n=>c(i({},\"__esModule\",{value:!0}),n);var l=y((_,s)=>{s.exports=_jsx_runtime});var x={};f(x,{default:()=>h,frontmatter:()=>v});var t=k(l()),v={title:\"WiFiScan \\u2014 Wireless Diagnostic Tool\",description:\"Engineered a Python-based diagnostic utility featuring hardware interfacing and multi-module scanning to parse raw network data into human-readable reports.\",date:\"2022-01-01\",url:\"https://drive.google.com/file/d/15_vbz90Y61v0KU_CjqPodfeQnR1TE6Cf/view?usp=sharing\",image:\"/wifiscan-tool.png\",tags:[\"Python\",\"Scapy\",\"Socket Library\",\"Network Protocols\"],published:!0};function d(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,t.jsx)(e.p,{children:\"Engineered a modular, command-line Python diagnostic utility that interfaces directly with wireless hardware to capture, scan, and report on local network topology.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Technical Highlights\"}),`\n`,(0,t.jsxs)(e.ul,{children:[`\n`,(0,t.jsxs)(e.li,{children:[\"Built a \",(0,t.jsx)(e.strong,{children:\"modular architecture\"}),\" for packet capture, active host discovery, and port scanning using Scapy and the Socket library.\"]}),`\n`,(0,t.jsxs)(e.li,{children:[\"Engineered backend communication with \",(0,t.jsx)(e.strong,{children:\"PCIe adapters\"}),\" to retrieve and parse GUID and physical MAC address data.\"]}),`\n`,(0,t.jsx)(e.li,{children:\"Outputs clean, human-readable scan reports from raw network packet data.\"}),`\n`]}),`\n`,(0,t.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,t.jsx)(e.p,{children:\"Python \\xB7 Scapy \\xB7 Socket Library \\xB7 Network Protocols \\xB7 PCIe Hardware Interfacing\"})]})}function h(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(d,{...n})}):d(n)}return b(x);})();\n;return Component;"
+        },
+        "_id": "projects/wifiscan.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/wifiscan.mdx",
+          "sourceFileName": "wifiscan.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/wifiscan"
+        },
+        "type": "Project",
+        "slug": "wifiscan"
+      },
+      "documentHash": "1775256096854",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    }
+  }
+}

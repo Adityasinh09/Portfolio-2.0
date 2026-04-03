@@ -1,0 +1,34 @@
+{
+  "title": "Mobile To-Do App UI/UX Concept",
+  "description": "A minimalist, high-usability interface geared towards efficient task tracking, designed for mobile-first interaction.",
+  "date": "2023-02-01T00:00:00.000Z",
+  "published": true,
+  "image": "/mobile-todo-1.png",
+  "images": [
+    "/mobile-todo-1.png",
+    "/mobile-todo-2.png",
+    "/mobile-todo-3.png",
+    "/mobile-todo-4.png",
+    "/mobile-todo-5.png"
+  ],
+  "tags": [
+    "Figma",
+    "Visual Hierarchy",
+    "Color Theory",
+    "Prototyping"
+  ],
+  "body": {
+    "raw": "\n## Overview\n\nDesigned a high-fidelity mobile application UI/UX concept for a task management tool, prioritizing user interaction clarity and minimalist visual design.\n\n## Design Highlights\n\n- Successfully transitioned from **low-fidelity wireframes** to a comprehensive high-fidelity design system.\n- Optimized visual hierarchy to enhance task persistence and interaction clarity across all key screens.\n- Applied **color theory** and micro-interaction principles to create an engaging, distraction-free experience.\n\n## Tools & Stack\n\nFigma · Visual Hierarchy · Color Theory · Prototyping · Motion Design\n",
+    "code": "var Component=(()=>{var h=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,i)=>()=>(i||e((i={exports:{}}).exports,i),i.exports),b=(e,i)=>{for(var t in i)r(e,t,{get:i[t],enumerable:!0})},l=(e,i,t,a)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let o of p(i))!f.call(e,o)&&o!==t&&r(e,o,{get:()=>i[o],enumerable:!(a=m(i,o))||a.enumerable});return e};var x=(e,i,t)=>(t=e!=null?h(u(e)):{},l(i||!e||!e.__esModule?r(t,\"default\",{value:e,enumerable:!0}):t,e)),_=e=>l(r({},\"__esModule\",{value:!0}),e);var c=y((v,s)=>{s.exports=_jsx_runtime});var D={};b(D,{default:()=>g,frontmatter:()=>k});var n=x(c()),k={title:\"Mobile To-Do App UI/UX Concept\",description:\"A minimalist, high-usability interface geared towards efficient task tracking, designed for mobile-first interaction.\",date:\"2023-02-01\",image:\"/mobile-todo-1.png\",images:[\"/mobile-todo-1.png\",\"/mobile-todo-2.png\",\"/mobile-todo-3.png\",\"/mobile-todo-4.png\",\"/mobile-todo-5.png\"],tags:[\"Figma\",\"Visual Hierarchy\",\"Color Theory\",\"Prototyping\"],published:!0};function d(e){let i={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(i.h2,{children:\"Overview\"}),`\n`,(0,n.jsx)(i.p,{children:\"Designed a high-fidelity mobile application UI/UX concept for a task management tool, prioritizing user interaction clarity and minimalist visual design.\"}),`\n`,(0,n.jsx)(i.h2,{children:\"Design Highlights\"}),`\n`,(0,n.jsxs)(i.ul,{children:[`\n`,(0,n.jsxs)(i.li,{children:[\"Successfully transitioned from \",(0,n.jsx)(i.strong,{children:\"low-fidelity wireframes\"}),\" to a comprehensive high-fidelity design system.\"]}),`\n`,(0,n.jsx)(i.li,{children:\"Optimized visual hierarchy to enhance task persistence and interaction clarity across all key screens.\"}),`\n`,(0,n.jsxs)(i.li,{children:[\"Applied \",(0,n.jsx)(i.strong,{children:\"color theory\"}),\" and micro-interaction principles to create an engaging, distraction-free experience.\"]}),`\n`]}),`\n`,(0,n.jsx)(i.h2,{children:\"Tools & Stack\"}),`\n`,(0,n.jsx)(i.p,{children:\"Figma \\xB7 Visual Hierarchy \\xB7 Color Theory \\xB7 Prototyping \\xB7 Motion Design\"})]})}function g(e={}){let{wrapper:i}=e.components||{};return i?(0,n.jsx)(i,{...e,children:(0,n.jsx)(d,{...e})}):d(e)}return _(D);})();\n;return Component;"
+  },
+  "_id": "projects/mobile-todo.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/mobile-todo.mdx",
+    "sourceFileName": "mobile-todo.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/mobile-todo"
+  },
+  "type": "Project",
+  "slug": "mobile-todo"
+}

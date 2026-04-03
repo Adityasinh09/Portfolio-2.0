@@ -1,0 +1,31 @@
+{
+  "title": "Fashion Hub — E-Commerce UI/UX Concept",
+  "description": "Blending bold aesthetics with functional design to create an immersive retail experience.",
+  "date": "2023-01-01T00:00:00.000Z",
+  "published": true,
+  "image": "/fashion-hub-design-1.png",
+  "images": [
+    "/fashion-hub-design-1.png",
+    "/fashion-hub-design-2.png"
+  ],
+  "tags": [
+    "Figma",
+    "UI/UX",
+    "Prototyping",
+    "Responsive Design"
+  ],
+  "body": {
+    "raw": "\n## Overview\n\nDesigned a full responsive e-commerce platform focused on conversion-driven design, intuitive user flows, and a striking visual identity for a fashion retail brand.\n\n## Design Highlights\n\n- Utilized a **vibrant color palette and bold typography** to create a visually striking, brand-forward interface.\n- Designed a full **product discovery flow**: homepage → category → product detail → checkout, optimized for conversion.\n- Ensured high functionality and intuitive user flows across multiple device formats (mobile, tablet, desktop).\n\n## Tools & Stack\n\nFigma · Prototyping · Responsive Design · Color Theory · Visual Hierarchy\n",
+    "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var m=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var v=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),b=(n,e)=>{for(var t in e)r(n,t,{get:e[t],enumerable:!0})},a=(n,e,t,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of p(e))!f.call(n,o)&&o!==t&&r(n,o,{get:()=>e[o],enumerable:!(s=u(e,o))||s.enumerable});return n};var y=(n,e,t)=>(t=n!=null?g(m(n)):{},a(e||!n||!n.__esModule?r(t,\"default\",{value:n,enumerable:!0}):t,n)),x=n=>a(r({},\"__esModule\",{value:!0}),n);var c=v((j,l)=>{l.exports=_jsx_runtime});var D={};b(D,{default:()=>h,frontmatter:()=>w});var i=y(c()),w={title:\"Fashion Hub \\u2014 E-Commerce UI/UX Concept\",description:\"Blending bold aesthetics with functional design to create an immersive retail experience.\",date:\"2023-01-01\",image:\"/fashion-hub-design-1.png\",images:[\"/fashion-hub-design-1.png\",\"/fashion-hub-design-2.png\"],tags:[\"Figma\",\"UI/UX\",\"Prototyping\",\"Responsive Design\"],published:!0};function d(n){let e={h2:\"h2\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...n.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(e.h2,{children:\"Overview\"}),`\n`,(0,i.jsx)(e.p,{children:\"Designed a full responsive e-commerce platform focused on conversion-driven design, intuitive user flows, and a striking visual identity for a fashion retail brand.\"}),`\n`,(0,i.jsx)(e.h2,{children:\"Design Highlights\"}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[\"Utilized a \",(0,i.jsx)(e.strong,{children:\"vibrant color palette and bold typography\"}),\" to create a visually striking, brand-forward interface.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[\"Designed a full \",(0,i.jsx)(e.strong,{children:\"product discovery flow\"}),\": homepage \\u2192 category \\u2192 product detail \\u2192 checkout, optimized for conversion.\"]}),`\n`,(0,i.jsx)(e.li,{children:\"Ensured high functionality and intuitive user flows across multiple device formats (mobile, tablet, desktop).\"}),`\n`]}),`\n`,(0,i.jsx)(e.h2,{children:\"Tools & Stack\"}),`\n`,(0,i.jsx)(e.p,{children:\"Figma \\xB7 Prototyping \\xB7 Responsive Design \\xB7 Color Theory \\xB7 Visual Hierarchy\"})]})}function h(n={}){let{wrapper:e}=n.components||{};return e?(0,i.jsx)(e,{...n,children:(0,i.jsx)(d,{...n})}):d(n)}return x(D);})();\n;return Component;"
+  },
+  "_id": "projects/fashion-hub.mdx",
+  "_raw": {
+    "sourceFilePath": "projects/fashion-hub.mdx",
+    "sourceFileName": "fashion-hub.mdx",
+    "sourceFileDir": "projects",
+    "contentType": "mdx",
+    "flattenedPath": "projects/fashion-hub"
+  },
+  "type": "Project",
+  "slug": "fashion-hub"
+}

@@ -1,0 +1,236 @@
+{
+  "cacheItemsMap": {
+    "projects/6g-smart-city.mdx": {
+      "document": {
+        "title": "6g-smart-city",
+        "description": "Peer-Reviewed Research published under Springer Nature Link addressing the 6G-Enabled Smart Cities paradigm, focusing on bandwidth and AI integration in home automation frameworks.",
+        "date": "2023-11-01T00:00:00.000Z",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-85923-6_11",
+        "published": true,
+        "body": {
+          "raw": "\nPublished as a peer-reviewed conference paper (pp. 137–150), demonstrating rigorous academic validation.\nConducted in-depth analysis on the evolution of IoT connectivity, contributing to cyber-physical systems research.\n",
+          "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var l=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var b=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var n in t)i(e,n,{get:t[n],enumerable:!0})},s=(e,t,n,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of l(t))!f.call(e,r)&&r!==n&&i(e,r,{get:()=>t[r],enumerable:!(a=h(t,r))||a.enumerable});return e};var y=(e,t,n)=>(n=e!=null?m(g(e)):{},s(t||!e||!e.__esModule?i(n,\"default\",{value:e,enumerable:!0}):n,e)),_=e=>s(i({},\"__esModule\",{value:!0}),e);var d=b((j,c)=>{c.exports=_jsx_runtime});var w={};x(w,{default:()=>u,frontmatter:()=>v});var o=y(d()),v={title:\"6g-smart-city\",description:\"Peer-Reviewed Research published under Springer Nature Link addressing the 6G-Enabled Smart Cities paradigm, focusing on bandwidth and AI integration in home automation frameworks.\",date:\"2023-11-01\",url:\"https://link.springer.com/chapter/10.1007/978-3-031-85923-6_11\",published:!0};function p(e){let t={p:\"p\",...e.components};return(0,o.jsx)(t.p,{children:`Published as a peer-reviewed conference paper (pp. 137\\u2013150), demonstrating rigorous academic validation.\nConducted in-depth analysis on the evolution of IoT connectivity, contributing to cyber-physical systems research.`})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(p,{...e})}):p(e)}return _(w);})();\n;return Component;"
+        },
+        "_id": "projects/6g-smart-city.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/6g-smart-city.mdx",
+          "sourceFileName": "6g-smart-city.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/6g-smart-city"
+        },
+        "type": "Project",
+        "slug": "6g-smart-city"
+      },
+      "documentHash": "1775255843348",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/fashion-hub.mdx": {
+      "document": {
+        "title": "fashion-hub",
+        "description": "Blending bold aesthetics with functional design to create an immersive retail experience. Designed a responsive e-commerce platform focusing on conversion-driven design and intuitive user flows.",
+        "date": "2023-01-01T00:00:00.000Z",
+        "published": true,
+        "body": {
+          "raw": "\nUtilized a vibrant color palette and bold typography to create a visually striking interface.\nEnsured high functionality and intuitive user flows across multiple device formats.\n",
+          "code": "var Component=(()=>{var p=Object.create;var o=Object.defineProperty;var f=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var g=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),x=(e,t)=>{for(var n in t)o(e,n,{get:t[n],enumerable:!0})},a=(e,t,n,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let i of m(t))!v.call(e,i)&&i!==n&&o(e,i,{get:()=>t[i],enumerable:!(s=f(t,i))||s.enumerable});return e};var b=(e,t,n)=>(n=e!=null?p(h(e)):{},a(t||!e||!e.__esModule?o(n,\"default\",{value:e,enumerable:!0}):n,e)),y=e=>a(o({},\"__esModule\",{value:!0}),e);var l=g((D,c)=>{c.exports=_jsx_runtime});var w={};x(w,{default:()=>u,frontmatter:()=>_});var r=b(l()),_={title:\"fashion-hub\",description:\"Blending bold aesthetics with functional design to create an immersive retail experience. Designed a responsive e-commerce platform focusing on conversion-driven design and intuitive user flows.\",date:\"2023-01-01\",published:!0};function d(e){let t={p:\"p\",...e.components};return(0,r.jsx)(t.p,{children:`Utilized a vibrant color palette and bold typography to create a visually striking interface.\nEnsured high functionality and intuitive user flows across multiple device formats.`})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,r.jsx)(t,{...e,children:(0,r.jsx)(d,{...e})}):d(e)}return y(w);})();\n;return Component;"
+        },
+        "_id": "projects/fashion-hub.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/fashion-hub.mdx",
+          "sourceFileName": "fashion-hub.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/fashion-hub"
+        },
+        "type": "Project",
+        "slug": "fashion-hub"
+      },
+      "documentHash": "1775180807313",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/mobile-todo.mdx": {
+      "document": {
+        "title": "mobile-todo",
+        "description": "A minimalist, high-usability interface geared towards efficient task tracking. Designed a high-fidelity system prioritizing user interaction clarity.",
+        "date": "2023-02-01T00:00:00.000Z",
+        "published": true,
+        "body": {
+          "raw": "\nSuccessfully transitioned from low-fidelity wireframes to a comprehensive high-fidelity design system.\nOptimized visual hierarchy to enhance task persistence and interaction clarity.\n",
+          "code": "var Component=(()=>{var f=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var g=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),x=(t,e)=>{for(var i in e)r(t,i,{get:e[i],enumerable:!0})},a=(t,e,i,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let n of h(e))!y.call(t,n)&&n!==i&&r(t,n,{get:()=>e[n],enumerable:!(s=u(e,n))||s.enumerable});return t};var _=(t,e,i)=>(i=t!=null?f(p(t)):{},a(e||!t||!t.__esModule?r(i,\"default\",{value:t,enumerable:!0}):i,t)),w=t=>a(r({},\"__esModule\",{value:!0}),t);var d=g((D,c)=>{c.exports=_jsx_runtime});var j={};x(j,{default:()=>m,frontmatter:()=>b});var o=_(d()),b={title:\"mobile-todo\",description:\"A minimalist, high-usability interface geared towards efficient task tracking. Designed a high-fidelity system prioritizing user interaction clarity.\",date:\"2023-02-01\",published:!0};function l(t){let e={p:\"p\",...t.components};return(0,o.jsx)(e.p,{children:`Successfully transitioned from low-fidelity wireframes to a comprehensive high-fidelity design system.\nOptimized visual hierarchy to enhance task persistence and interaction clarity.`})}function m(t={}){let{wrapper:e}=t.components||{};return e?(0,o.jsx)(e,{...t,children:(0,o.jsx)(l,{...t})}):l(t)}return w(j);})();\n;return Component;"
+        },
+        "_id": "projects/mobile-todo.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/mobile-todo.mdx",
+          "sourceFileName": "mobile-todo.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/mobile-todo"
+        },
+        "type": "Project",
+        "slug": "mobile-todo"
+      },
+      "documentHash": "1775180809377",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/netflix-strategy.mdx": {
+      "document": {
+        "title": "netflix-strategy",
+        "description": "Mapping the evolution of a streaming giant through data engineering and visual storytelling.",
+        "date": "2024-02-01T00:00:00.000Z",
+        "url": "https://public.tableau.com/app/profile/adityasinh.chauhan/viz/NetflixContentStrategyAnalysis_17737949998940/Dashboard1",
+        "repository": "Adityasinh09/Netflix-Content-Strategy-Analysis",
+        "published": true,
+        "body": {
+          "raw": "\nIdentified that the library remains 70% movie-heavy despite global shifts.\nUncovered International Dramas acting as the primary engine for non-US growth, indicating a strategy of using cinema for market entries.\n",
+          "code": "var Component=(()=>{var d=Object.create;var a=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),x=(t,e)=>{for(var n in e)a(t,n,{get:e[n],enumerable:!0})},s=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!m.call(t,i)&&i!==n&&a(t,i,{get:()=>e[i],enumerable:!(o=g(e,i))||o.enumerable});return t};var b=(t,e,n)=>(n=t!=null?d(f(t)):{},s(e||!t||!t.__esModule?a(n,\"default\",{value:t,enumerable:!0}):n,t)),v=t=>s(a({},\"__esModule\",{value:!0}),t);var c=y((M,l)=>{l.exports=_jsx_runtime});var C={};x(C,{default:()=>p,frontmatter:()=>_});var r=b(c()),_={title:\"netflix-strategy\",description:\"Mapping the evolution of a streaming giant through data engineering and visual storytelling.\",date:\"2024-02-01\",repository:\"Adityasinh09/Netflix-Content-Strategy-Analysis\",url:\"https://public.tableau.com/app/profile/adityasinh.chauhan/viz/NetflixContentStrategyAnalysis_17737949998940/Dashboard1\",published:!0};function h(t){let e={p:\"p\",...t.components};return(0,r.jsx)(e.p,{children:`Identified that the library remains 70% movie-heavy despite global shifts.\nUncovered International Dramas acting as the primary engine for non-US growth, indicating a strategy of using cinema for market entries.`})}function p(t={}){let{wrapper:e}=t.components||{};return e?(0,r.jsx)(e,{...t,children:(0,r.jsx)(h,{...t})}):h(t)}return v(C);})();\n;return Component;"
+        },
+        "_id": "projects/netflix-strategy.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/netflix-strategy.mdx",
+          "sourceFileName": "netflix-strategy.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/netflix-strategy"
+        },
+        "type": "Project",
+        "slug": "netflix-strategy"
+      },
+      "documentHash": "1775180132061",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/oasis-hospital.mdx": {
+      "document": {
+        "title": "oasis-hospital",
+        "description": "Designed a modular service grid, user-centric onboarding, and strategic CTA workflows. Leveraged custom illustrations to differentiate user types across the medical platform.",
+        "date": "2022-06-01T00:00:00.000Z",
+        "published": true,
+        "body": {
+          "raw": "\nCreated a custom card-based system allowing easy expansion for categories like Medical Tourism.\nIntegrated social login onboarding to lower barriers for new policyholders and partners.\nStrategically placed 'Know More' and 'Login' CTAs to guide users toward key conversion points.\n",
+          "code": "var Component=(()=>{var p=Object.create;var n=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var x=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),y=(e,t)=>{for(var o in t)n(e,o,{get:t[o],enumerable:!0})},i=(e,t,o,a)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let r of g(t))!w.call(e,r)&&r!==o&&n(e,r,{get:()=>t[r],enumerable:!(a=m(t,r))||a.enumerable});return e};var h=(e,t,o)=>(o=e!=null?p(f(e)):{},i(t||!e||!e.__esModule?n(o,\"default\",{value:e,enumerable:!0}):o,e)),b=e=>i(n({},\"__esModule\",{value:!0}),e);var d=x((j,c)=>{c.exports=_jsx_runtime});var M={};y(M,{default:()=>u,frontmatter:()=>C});var s=h(d()),C={title:\"oasis-hospital\",description:\"Designed a modular service grid, user-centric onboarding, and strategic CTA workflows. Leveraged custom illustrations to differentiate user types across the medical platform.\",date:\"2022-06-01\",published:!0};function l(e){let t={p:\"p\",...e.components};return(0,s.jsx)(t.p,{children:`Created a custom card-based system allowing easy expansion for categories like Medical Tourism.\nIntegrated social login onboarding to lower barriers for new policyholders and partners.\nStrategically placed 'Know More' and 'Login' CTAs to guide users toward key conversion points.`})}function u(e={}){let{wrapper:t}=e.components||{};return t?(0,s.jsx)(t,{...e,children:(0,s.jsx)(l,{...e})}):l(e)}return b(M);})();\n;return Component;"
+        },
+        "_id": "projects/oasis-hospital.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/oasis-hospital.mdx",
+          "sourceFileName": "oasis-hospital.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/oasis-hospital"
+        },
+        "type": "Project",
+        "slug": "oasis-hospital"
+      },
+      "documentHash": "1775180815514",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/retail-sales.mdx": {
+      "document": {
+        "title": "retail-sales-analytics",
+        "description": "Decoding consumer trends to drive revenue growth through EDA and Python. I analyzed a retail transaction dataset to identify high-value customer segments and product performance.",
+        "date": "2024-01-01T00:00:00.000Z",
+        "url": "https://public.tableau.com/app/profile/adityasinh.chauhan/viz/RetailSalesAnalysisDashboard_17737033125250/Dashboard1",
+        "repository": "Adityasinh09/Retail-Sales-and-Customer-Behavior-Analysis",
+        "published": true,
+        "body": {
+          "raw": "\nUncovered that 30–50 year-olds drive the highest average spend.\nProvided a clear target for marketing optimization to drive revenue growth.\n",
+          "code": "var Component=(()=>{var u=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var g=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),f=(e,t)=>{for(var a in t)r(e,a,{get:t[a],enumerable:!0})},s=(e,t,a,i)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of m(t))!y.call(e,n)&&n!==a&&r(e,n,{get:()=>t[n],enumerable:!(i=p(t,n))||i.enumerable});return e};var x=(e,t,a)=>(a=e!=null?u(v(e)):{},s(t||!e||!e.__esModule?r(a,\"default\",{value:e,enumerable:!0}):a,e)),D=e=>s(r({},\"__esModule\",{value:!0}),e);var c=g((j,d)=>{d.exports=_jsx_runtime});var b={};f(b,{default:()=>h,frontmatter:()=>_});var o=x(c()),_={title:\"retail-sales-analytics\",description:\"Decoding consumer trends to drive revenue growth through EDA and Python. I analyzed a retail transaction dataset to identify high-value customer segments and product performance.\",date:\"2024-01-01\",repository:\"Adityasinh09/Retail-Sales-and-Customer-Behavior-Analysis\",url:\"https://public.tableau.com/app/profile/adityasinh.chauhan/viz/RetailSalesAnalysisDashboard_17737033125250/Dashboard1\",published:!0};function l(e){let t={p:\"p\",...e.components};return(0,o.jsx)(t.p,{children:`Uncovered that 30\\u201350 year-olds drive the highest average spend.\nProvided a clear target for marketing optimization to drive revenue growth.`})}function h(e={}){let{wrapper:t}=e.components||{};return t?(0,o.jsx)(t,{...e,children:(0,o.jsx)(l,{...e})}):l(e)}return D(b);})();\n;return Component;"
+        },
+        "_id": "projects/retail-sales.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/retail-sales.mdx",
+          "sourceFileName": "retail-sales.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/retail-sales"
+        },
+        "type": "Project",
+        "slug": "retail-sales"
+      },
+      "documentHash": "1775180130033",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/task-management.mdx": {
+      "document": {
+        "title": "dynamic-task-management",
+        "description": "A sleek, persistent To-Do application built with vanilla JavaScript and Local Storage, focusing on a zero-loss user experience and modern glassmorphism UI.",
+        "date": "2023-10-01T00:00:00.000Z",
+        "published": true,
+        "body": {
+          "raw": "\nImplemented localStorage API for dynamic data persistence and state management.\nEngineered input validation and vanilla JavaScript DOM manipulation for seamless real-time updates.\n",
+          "code": "var Component=(()=>{var d=Object.create;var o=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var x=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var h=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),v=(e,t)=>{for(var n in t)o(e,n,{get:t[n],enumerable:!0})},s=(e,t,n,r)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of f(t))!g.call(e,a)&&a!==n&&o(e,a,{get:()=>t[a],enumerable:!(r=u(t,a))||r.enumerable});return e};var _=(e,t,n)=>(n=e!=null?d(x(e)):{},s(t||!e||!e.__esModule?o(n,\"default\",{value:e,enumerable:!0}):n,e)),D=e=>s(o({},\"__esModule\",{value:!0}),e);var l=h((y,c)=>{c.exports=_jsx_runtime});var S={};v(S,{default:()=>p,frontmatter:()=>M});var i=_(l()),M={title:\"dynamic-task-management\",description:\"A sleek, persistent To-Do application built with vanilla JavaScript and Local Storage, focusing on a zero-loss user experience and modern glassmorphism UI.\",date:\"2023-10-01\",published:!0};function m(e){let t={p:\"p\",...e.components};return(0,i.jsx)(t.p,{children:`Implemented localStorage API for dynamic data persistence and state management.\nEngineered input validation and vanilla JavaScript DOM manipulation for seamless real-time updates.`})}function p(e={}){let{wrapper:t}=e.components||{};return t?(0,i.jsx)(t,{...e,children:(0,i.jsx)(m,{...e})}):m(e)}return D(S);})();\n;return Component;"
+        },
+        "_id": "projects/task-management.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/task-management.mdx",
+          "sourceFileName": "task-management.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/task-management"
+        },
+        "type": "Project",
+        "slug": "task-management"
+      },
+      "documentHash": "1775180134103",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/vegetable-market.mdx": {
+      "document": {
+        "title": "vegetable-market",
+        "description": "A comprehensive UI/UX design featuring component-driven product cards, an immersive onboarding experience, and engaging micro-interactions.",
+        "date": "2022-08-01T00:00:00.000Z",
+        "published": true,
+        "body": {
+          "raw": "\nCreated reusable product cards featuring strategic calls-to-action to increase conversion.\nDesigned a 5-tab bottom navigation bar for instant access to critical app sections.\nPlanned intuitive checkout banners and promotional sliders to maximize average order value.\n",
+          "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var b=(e,n)=>()=>(n||e((n={exports:{}}).exports,n),n.exports),f=(e,n)=>{for(var t in n)r(e,t,{get:n[t],enumerable:!0})},c=(e,n,t,i)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let o of g(n))!x.call(e,o)&&o!==t&&r(e,o,{get:()=>n[o],enumerable:!(i=l(n,o))||i.enumerable});return e};var h=(e,n,t)=>(t=e!=null?p(v(e)):{},c(n||!e||!e.__esModule?r(t,\"default\",{value:e,enumerable:!0}):t,e)),_=e=>c(r({},\"__esModule\",{value:!0}),e);var d=b((M,s)=>{s.exports=_jsx_runtime});var C={};f(C,{default:()=>u,frontmatter:()=>j});var a=h(d()),j={title:\"vegetable-market\",description:\"A comprehensive UI/UX design featuring component-driven product cards, an immersive onboarding experience, and engaging micro-interactions.\",date:\"2022-08-01\",published:!0};function m(e){let n={p:\"p\",...e.components};return(0,a.jsx)(n.p,{children:`Created reusable product cards featuring strategic calls-to-action to increase conversion.\nDesigned a 5-tab bottom navigation bar for instant access to critical app sections.\nPlanned intuitive checkout banners and promotional sliders to maximize average order value.`})}function u(e={}){let{wrapper:n}=e.components||{};return n?(0,a.jsx)(n,{...e,children:(0,a.jsx)(m,{...e})}):m(e)}return _(C);})();\n;return Component;"
+        },
+        "_id": "projects/vegetable-market.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/vegetable-market.mdx",
+          "sourceFileName": "vegetable-market.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/vegetable-market"
+        },
+        "type": "Project",
+        "slug": "vegetable-market"
+      },
+      "documentHash": "1775180817604",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/wifiscan.mdx": {
+      "document": {
+        "title": "wifiscan",
+        "description": "Engineered a Python-based diagnostic utility featuring hardware interfacing and multi-module scanning to parse raw network data into human-readable basic scan reports.",
+        "date": "2022-01-01T00:00:00.000Z",
+        "url": "https://drive.google.com/file/d/15_vbz90Y61v0KU_CjqPodfeQnR1TE6Cf/view?usp=sharing",
+        "repository": "Adityasinh09/wifi_scanner",
+        "published": true,
+        "body": {
+          "raw": "\nBuilt a modular architecture for packet capture, active host discovery, and port scanning.\nEngineered backend communication with PCIe adapters to retrieve and parse GUID and physical address data.\n",
+          "code": "var Component=(()=>{var l=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var w=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),_=(e,t)=>{for(var n in t)r(e,n,{get:t[n],enumerable:!0})},s=(e,t,n,o)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let a of f(t))!g.call(e,a)&&a!==n&&r(e,a,{get:()=>t[a],enumerable:!(o=m(t,a))||o.enumerable});return e};var v=(e,t,n)=>(n=e!=null?l(h(e)):{},s(t||!e||!e.__esModule?r(n,\"default\",{value:e,enumerable:!0}):n,e)),x=e=>s(r({},\"__esModule\",{value:!0}),e);var d=w((j,c)=>{c.exports=_jsx_runtime});var b={};_(b,{default:()=>p,frontmatter:()=>y});var i=v(d()),y={title:\"wifiscan\",description:\"Engineered a Python-based diagnostic utility featuring hardware interfacing and multi-module scanning to parse raw network data into human-readable basic scan reports.\",date:\"2022-01-01\",repository:\"Adityasinh09/wifi_scanner\",url:\"https://drive.google.com/file/d/15_vbz90Y61v0KU_CjqPodfeQnR1TE6Cf/view?usp=sharing\",published:!0};function u(e){let t={p:\"p\",...e.components};return(0,i.jsx)(t.p,{children:`Built a modular architecture for packet capture, active host discovery, and port scanning.\nEngineered backend communication with PCIe adapters to retrieve and parse GUID and physical address data.`})}function p(e={}){let{wrapper:t}=e.components||{};return t?(0,i.jsx)(t,{...e,children:(0,i.jsx)(u,{...e})}):u(e)}return x(b);})();\n;return Component;"
+        },
+        "_id": "projects/wifiscan.mdx",
+        "_raw": {
+          "sourceFilePath": "projects/wifiscan.mdx",
+          "sourceFileName": "wifiscan.mdx",
+          "sourceFileDir": "projects",
+          "contentType": "mdx",
+          "flattenedPath": "projects/wifiscan"
+        },
+        "type": "Project",
+        "slug": "wifiscan"
+      },
+      "documentHash": "1775180811417",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    }
+  }
+}
